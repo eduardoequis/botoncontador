@@ -1,0 +1,60 @@
+body {
+    background: #7C98B3;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #47413F;
+  }
+
+img {
+    width: 10%;
+    height: 10%;
+}
+button {
+    width: 30%;
+    height: 100px;
+    margin-top: 5%;
+    border-radius: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 130%;
+    background-color: #7C98B3;
+    color: white;
+}
+
+#juego {
+    background: white;
+    border-radius: 10px;
+    padding: 5%;
+    margin: 5%;
+}
+
+h1 {
+    font-family: 'Rammetto One', cursive;
+    font-size: 300%;
+    margin: 2%;
+}
+
+#instrucciones {
+    background: #EAF0CE;
+    border-radius: 10px;
+    padding: 2%;
+    margin: 2%;
+}
+
+#instrucciones h2 {
+    margin: 0px;
+}
+
+#contador {
+    font-family: 'Rammetto One', cursive;
+    font-size: 200%;
+    color: #F25757;
+}
+
+#resultado {
+    font-family: 'Rammetto One', cursive;
+    font-size: 200%;
+    color: #7C98B3;
+}
